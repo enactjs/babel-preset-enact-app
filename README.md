@@ -5,6 +5,6 @@
 ## Installation
 
 ```sh
-$ npm i -S babel-preset-enact-app
+$ npm i --save babel-preset-enact-app
 ```
 
