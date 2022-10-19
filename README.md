@@ -1,2 +1,10 @@
 # babel-preset-enact-app
-Babel preset used by Enact
+
+> A set of babel preset designed by the Enact team.
+
+## Installation
+
+```sh
+$ npm i -S babel-preset-enact-app
+```
+
