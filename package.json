@@ -1,10 +1,10 @@
 {
-  "name": "babel-preset-enact-app",
+  "name": "babel-preset-enact",
   "version": "1.0.0",
   "description": "Babel preset used by Enact",
   "repository": {
     "type": "git",
-    "url": "https://github.com/enactjs/babel-preset-enact-app.git"
+    "url": "https://github.com/enactjs/babel-preset-enact.git"
   },
   "homepage": "https://enactjs.com",
   "license": "Apache-2.0",
